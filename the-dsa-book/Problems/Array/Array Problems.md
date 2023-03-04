@@ -1,3 +1,3 @@
 * [[Two Sum]]
-* Two Sum II
+* [[Two Sum II - Input Array Is Sorted]]
 * Three Sum

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Array.md",
+                "file": "Problems/Array/Array Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Array/Two Sum.md",
-                "mode": "source",
+                "file": "Problems/Array/Two Sum II - Input Array Is Sorted.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -47,8 +47,12 @@
             "id": "1d48a5f92be13592",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Array/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -64,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Problems/Array/Array Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Problems/Array/Array Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Problems/Array/Array Problems.md"
+              }
             }
           }
         ]
@@ -187,14 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d48a5f92be13592",
+  "active": "613612d23933f7a3",
   "lastOpenFiles": [
-    "The DSA Book.md",
-    "Data Structures/Array.md",
+    "Problems/Array/Two Sum II - Input Array Is Sorted.md",
     "Problems/Array/Array Problems.md",
+    "The DSA Book.md",
     "Problems/Array/Two Sum.md",
-    "Data Structures/HashMap.md",
     "Techniques/Two pointers.md",
+    "Data Structures/Array.md",
+    "Data Structures/HashMap.md",
     "Strings.md",
     "Data Structures/String.md"
   ]
