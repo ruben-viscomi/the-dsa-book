@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "d071d1a17fdebb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Matrix/Matrix Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b189b77ed434c741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Matrix/Search a 2D Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871c4c90618a16d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures/Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ae0fb20e39dcdcd3",
             "type": "leaf",
             "state": {
@@ -68,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Array/Array Problems.md",
+                "file": "Problems/Array/Two Sum II - Input Array Is Sorted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/Array/Array Problems.md",
+                "file": "Problems/Array/Two Sum II - Input Array Is Sorted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Array/Array Problems.md"
+                "file": "Problems/Array/Two Sum II - Input Array Is Sorted.md"
               }
             }
           }
@@ -195,14 +231,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613612d23933f7a3",
+  "active": "ae0fb20e39dcdcd3",
   "lastOpenFiles": [
-    "Problems/Array/Two Sum II - Input Array Is Sorted.md",
-    "Problems/Array/Array Problems.md",
-    "The DSA Book.md",
     "Problems/Array/Two Sum.md",
-    "Techniques/Two pointers.md",
+    "Data Structures/Matrix.md",
     "Data Structures/Array.md",
+    "Problems/Matrix/Search a 2D Matrix.md",
+    "Problems/Matrix/Matrix Problems.md",
+    "Problems/Array/Array Problems.md",
+    "Problems/Untitled.md",
+    "Problems/Matrix",
+    "Untitled.canvas",
+    "Problems/Array/Two Sum II - Input Array Is Sorted.md",
+    "The DSA Book.md",
+    "Techniques/Two pointers.md",
     "Data Structures/HashMap.md",
     "Strings.md",
     "Data Structures/String.md"

@@ -31,7 +31,7 @@ given: pointer to nums[], target
 declare low = 0, high = last index of nums
 
 loop until low equals high
-	declare sum = nums[low] + nums[high]
+	declare sum = nums at low + nums at high
 	if sum is less than target
 		low = low + 1
 	else if sum is greater than target
