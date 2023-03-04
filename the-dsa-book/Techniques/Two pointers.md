@@ -1,0 +1,3 @@
+Two pointers is a technique that is generally applied to [[Array|Arrays]] and [[String|Strings]] (or mostly data structures stored in contiguous memory) in order to reduce the time complexity of algorithms related to those data structures.
+
+It consists in taking to pointers, generally 1 at the start and the other at the end of the data structure, and to move them independently based on certain conditions.
