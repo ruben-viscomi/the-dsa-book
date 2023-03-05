@@ -4,7 +4,7 @@ Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]
 Notice that the solution set must not contain duplicate triplets.
 #medium #leetcode 
 
-[3Sum (leetcode #15)](https://leetcode.com/problems/3sum/description/)
+[3Sum (leetcode #15)](https://leetcode.com/problems/3sum/)
 
 ## Constraints
 1. The given list of numbers can have a **minimum size of 3 and a maximum of 3.000 elements**
@@ -20,7 +20,7 @@ This approach solves the problem in `O(n³)` time complexity and `O(n²)` space 
 This approach is using 3 loops, in order to get any possible combination and an [[HashMap]] to check for the duplicates. We also need to convert the found triplets into a [[string]] in order to store in the [[HashMap]], but this is considered an `O(1)` operation, since regardless of the size of the given list, we will always convert the same amount of data (3 numbers)
 Here is the pseudo code solution.
 ```
-given nums[]
+given: nums[]
 
 declare found as HashMap of (string to boolean)
 declare response[]
@@ -45,7 +45,7 @@ We can lay out the foundations of our [[two pointers]] technique. Inside the loo
 Here is the pseudo code solution.
 
 ```
-given nums[]
+given: nums[]
 
 sort nums ascending
 

@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The DSA Book.md",
+                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "468dcf1ad9113371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The DSA Book.md",
+                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The DSA Book.md",
+                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The DSA Book.md"
+                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md"
               }
             }
           }
@@ -148,24 +160,28 @@
   },
   "active": "ad6966f056cfe409",
   "lastOpenFiles": [
-    "Problems/Array/Two Sum.md",
-    "Problems/Array/Two Sum II - Input Array Is Sorted.md",
-    "Algorithms/Binary Search.md",
+    "Problems/Stack/Stack Problems.md",
     "Problems/Array/3Sum.md",
     "Problems/Matrix/Search a 2D Matrix.md",
+    "Problems/Array/Two Sum.md",
+    "Problems/Array/Two Sum II - Input Array Is Sorted.md",
+    "Problems/Stack/Evaluate Reverse Polish Notation.md",
+    "Data Structures/Stack.md",
+    "Data Structures/String.md",
+    "The DSA Book.md",
+    "Data Structures/Matrix.md",
+    "Problems/Stack",
+    "Algorithms/Binary Search.md",
     "Problems/Array/Array Problems.md",
     "Problems/Matrix/Matrix Problems.md",
     "Data Structures/HashMap.md",
-    "Data Structures/Matrix.md",
     "Techniques/Sliding Window.md",
     "Algorithms",
     "Data Structures/Array.md",
     "Problems/Untitled.md",
     "Problems/Matrix",
     "Untitled.canvas",
-    "The DSA Book.md",
     "Techniques/Two pointers.md",
-    "Strings.md",
-    "Data Structures/String.md"
+    "Strings.md"
   ]
 }
