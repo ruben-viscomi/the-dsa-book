@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "73722a33869f2647",
+        "id": "82ef891e280bc127",
         "type": "tabs",
         "children": [
           {
-            "id": "b189b77ed434c741",
+            "id": "ad6966f056cfe409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Array/Two Sum II - Input Array Is Sorted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e4329c864792fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4170bd6a6016e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Matrix/Search a 2D Matrix.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "871c4c90618a16d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Array/Two Sum.md",
+                "file": "The DSA Book.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Matrix/Search a 2D Matrix.md",
+                "file": "The DSA Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/Matrix/Search a 2D Matrix.md",
+                "file": "The DSA Book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Matrix/Search a 2D Matrix.md"
+                "file": "The DSA Book.md"
               }
             }
           }
@@ -183,24 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4170bd6a6016e02",
+  "active": "ad6966f056cfe409",
   "lastOpenFiles": [
-    "Algorithms/Binary Search.md",
     "Problems/Array/Two Sum.md",
     "Problems/Array/Two Sum II - Input Array Is Sorted.md",
+    "Algorithms/Binary Search.md",
+    "Problems/Array/3Sum.md",
     "Problems/Matrix/Search a 2D Matrix.md",
+    "Problems/Array/Array Problems.md",
+    "Problems/Matrix/Matrix Problems.md",
+    "Data Structures/HashMap.md",
     "Data Structures/Matrix.md",
     "Techniques/Sliding Window.md",
     "Algorithms",
-    "Problems/Matrix/Matrix Problems.md",
-    "Problems/Array/Array Problems.md",
     "Data Structures/Array.md",
     "Problems/Untitled.md",
     "Problems/Matrix",
     "Untitled.canvas",
     "The DSA Book.md",
     "Techniques/Two pointers.md",
-    "Data Structures/HashMap.md",
     "Strings.md",
     "Data Structures/String.md"
   ]
