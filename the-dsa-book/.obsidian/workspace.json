@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "a95799851a22ccd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Trees/Binary Tree/Binary Tree Level Order Traversal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78d47a04cc2cdd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Array/3Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "054646b857e12804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Array/Two Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "468dcf1ad9113371",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
+                "file": "Problems/Trees/Binary Tree/Binary Tree Level Order Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md",
+                "file": "Problems/Trees/Binary Tree/Binary Tree Level Order Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problems/Stack/Evaluate Reverse Polish Notation.md"
+                "file": "Problems/Trees/Binary Tree/Binary Tree Level Order Traversal.md"
               }
             }
           }
@@ -158,14 +195,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad6966f056cfe409",
+  "active": "a95799851a22ccd6",
   "lastOpenFiles": [
-    "Problems/Stack/Stack Problems.md",
     "Problems/Array/3Sum.md",
-    "Problems/Matrix/Search a 2D Matrix.md",
     "Problems/Array/Two Sum.md",
+    "Problems/Trees/Binary Tree/Binary Tree Level Order Traversal.md",
     "Problems/Array/Two Sum II - Input Array Is Sorted.md",
+    "Problems/Trees/Binary Tree/Binary Tree Problems.md",
+    "Data Structures/Queue.md",
     "Problems/Stack/Evaluate Reverse Polish Notation.md",
+    "Algorithms/Breadth First Search.md",
+    "Data Structures/Trees/Tree.md",
+    "Data Structures/Trees/Binary Tree.md",
+    "Problems/Trees/Binary Tree",
+    "Problems/Trees",
+    "Data Structures/Trees",
+    "Problems/Stack/Stack Problems.md",
+    "Problems/Matrix/Search a 2D Matrix.md",
     "Data Structures/Stack.md",
     "Data Structures/String.md",
     "The DSA Book.md",
