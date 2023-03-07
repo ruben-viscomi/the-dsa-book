@@ -12,7 +12,7 @@ Come up with an algorithm that satisfies the following computation specification
 * Time complexity: `O(n)`
 * Space complexity: `O(n)`
 
-## Solution #1
+## Solution #1 (BFS)
 The problem is clearly asking to group all nodes by their level. This implies that we must totally traverse a level before moving to the next one. There is 1 well known algorithm that does exactly this... It's the [[breadth first search]]. We can start by pushing to the [[queue]] the root element, if present. We're then going to loop until the [[queue]] is empty.
 Let's quickly think about the next moves.
 In the first iteration we're going to have exactly 1 element in the [[queue]]. The root node.
@@ -49,6 +49,12 @@ loop until queue is empty
 return result
 end.
 ```
+<div align="center" style="opacity: 0.5"><font size="-1">This is the iterative solution</font></div>
+#TODO 
+```
+TODO
+```
+<div align="center" style="opacity: 0.5"><font size="-1">This is the recursive solution</font></div>
 
-## Solution #2
+## Solution #2 (DFS)
 #TODO Depth first search
