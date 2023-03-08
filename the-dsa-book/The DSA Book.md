@@ -3,3 +3,4 @@ Data structures
 * [[String]]
 * [[Stack]]
 * [[Tree]]
+* [[Linked List]]
